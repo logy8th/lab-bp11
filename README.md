@@ -1,5 +1,6 @@
 # Lab-12
-Repository ini dibuat untuk pemantapan materi pada modul materi di pertemuan-12 <br>
+## Repository ini dibuat untuk pemantapan materi pada modul materi di pertemuan-12 (Python Strings) <br>
+
 <pre>
 Nama    : Naufal Nirwansyah 
 Kelas   : TI.20.A1
