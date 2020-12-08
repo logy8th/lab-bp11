@@ -35,7 +35,8 @@ print(txt.replace('H','J'))
 ```
 <br>
 
-***<p style="text-align:center;"> *** Output dari Source Code Diatas*** </p>
+<p style="text-align:center;"> ***Output dari Source Code Diatas*** </p>
+
 <br>
 
 <div align="center">
