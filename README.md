@@ -1,5 +1,5 @@
-# Lab-11
-Repository ini dibuat untuk pemantapan materi pada modul materi di pertemuan-11 <br>
+# Lab-12
+Repository ini dibuat untuk pemantapan materi pada modul materi di pertemuan-12 <br>
 <pre>
 Nama    : Naufal Nirwansyah 
 Kelas   : TI.20.A1
@@ -11,8 +11,8 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 <img src="images/covermodul.png" >
 </div> <br>
 
-Pada pertemuan 11 yang lalu saya mendapat 2 latihan untuk pemantapan materi yang diberikan oleh
-dosen pengampu **Bahasa Pemrograman** *Bpk. Agung Nugroho S.Kom, M.Kom* <br>
+Pada pertemuan 12 yang lalu saya mendapat 2 latihan untuk pemantapan materi yang diberikan oleh
+dosen pengampu *Bahasa Pemrograman* **Bpk. Agung Nugroho S.Kom, M.Kom** <br>
 
 **Berikut ini tugas pertama yang terdapat didalam modul materi **Strings** :** <br>
 
